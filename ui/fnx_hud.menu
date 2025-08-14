@@ -34,7 +34,7 @@
 			name        "ammoIcon"
 			decoration
 			rect        18 2 10 10 
-			visible     1
+			visible     0
 			ownerdraw   CG_PLAYER_AMMO_ICON2D
 		}
 	
@@ -42,7 +42,7 @@
 			name          "ammoValue"
 			decoration
 			rect          28 0 63 12
-			visible       1
+			visible       0
 			textstyle     2
 			textscale     .24
 			forecolor     1 1 1 0.75
